@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="D:/softwares/Eclipse/for Java Developers/eclipse/plugins/org.eclipse.core.contenttype_3.6.0.v20160901-1938.jar"/>
+	<classpathentry kind="lib" path="D:/softwares/Eclipse/for Java Developers/eclipse/plugins/org.eclipse.core.jobs_3.8.0.v20160901-1938.jar"/>
+	<classpathentry kind="lib" path="D:/softwares/Eclipse/for Java Developers/eclipse/plugins/org.eclipse.core.resources_3.11.0.v20160706-1129.jar"/>
+	<classpathentry kind="lib" path="D:/softwares/Eclipse/for Java Developers/eclipse/plugins/org.eclipse.core.runtime_3.12.0.v20160901-1938.jar"/>
+	<classpathentry kind="lib" path="D:/softwares/Eclipse/for Java Developers/eclipse/plugins/org.eclipse.equinox.common_3.9.0.v20160831-0037.jar"/>
+	<classpathentry kind="lib" path="D:/softwares/Eclipse/for Java Developers/eclipse/plugins/org.eclipse.equinox.preferences_3.6.100.v20160815-1421.jar"/>
+	<classpathentry kind="lib" path="D:/softwares/Eclipse/for Java Developers/eclipse/plugins/org.eclipse.jdt.core_3.13.0.v20160913-0926.jar"/>
+	<classpathentry kind="lib" path="D:/softwares/Eclipse/for Java Developers/eclipse/plugins/org.eclipse.osgi_3.12.0.v20160908-1235.jar"/>
+	<classpathentry kind="lib" path="D:/softwares/Eclipse/for Java Developers/eclipse/plugins/org.eclipse.text_3.6.0.v20160503-1849.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
